@@ -1,0 +1,10 @@
+[package]
+name = "vizir"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+crossterm = "0.29.0"
+
+[lib]
+# crate-type = ["dylib"]
